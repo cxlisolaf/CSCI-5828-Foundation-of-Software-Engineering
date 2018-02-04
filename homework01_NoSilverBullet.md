@@ -10,7 +10,7 @@
     
     He thinks the essence of a software entity is a construct of interlocking concepts: data sets, relationships among data items, algorithms, and invocations of functions. This essence is abstract in that such a conceptual construct is the same under many different representations. It is nonetheless highly precise and richly detailed. Brooks believes the hard part of building software to be the specification, design, and testing of this conceptual construct, not the labor of representing it and testing the fidelity of the representation. The syntax errors are fuzz compared with the conceptual errors in most systems. If this is true, building software will always be hard and inherently no silver bullet to solve. 
     
-    For example,  complexity property of software comes with the difficulty of communication among team members, which leads to product flaws, cost overruns, schedule delays.
+    For example,  complexity is one of the essential difficulties. One example is complex property of software comes with the difficulty of communication among team members, which leads to product flaws, cost overruns, schedule delays.
 
 ***
 
@@ -29,27 +29,46 @@
     
     The fact that digital computers have very large numbers of states. This makes conceiving, describing, and testing them hard. Software systems have orders-of- magnitude more states than computers do. have very large numbers of states. This makes conceiving, describing, and testing them hard. Software systems have orders-of- magnitude more states than computers do.
     
+    Example: from the complexity comes the difficulty of enumerating, much less understanding, all the possible states of the program, and from that comes the unreliability.
+    
     Conformity:
     
     The fact that much of the complexity that must master is arbitrary complexity, forced without rhyme or reason by the many human institutions and systems to which the interfaces must conform. These differ from interface to interface, and from time to time, not because of necessity but only because they were designed by different people, rather than by God.
     
+    Example: in many cases, the software must conform because it is the most recent arrival on the scene.
+    
     Changeability:
     
     The fact that the software entity is constantly subject to pressures for change. In short, the software product is embedded in a cultural matrix of applications, users, laws, and machine vehicles. These all change continually, and their changes inexorably force change upon the software product.
+    
+    Example: successful software survives beyond the normal life of the machine vehicle for which it is first written. If not new computers, then at least new disks, new displays, new printers come along; and the software must be conformed to its new vehicles of opportunity.
 
     
     Invisibility:
     
-Software is invisible and unvisualizable. Hence, it has no ready geometric representation in the way that land has maps, silicon chips have diagrams, computers have connectivity schematics.
+    Software is invisible and unvisualizable. Hence, it has no ready geometric representation in the way that land has maps, silicon chips have diagrams, computers have connectivity schematics.
+    
+    Example: The several graphs may represent the flow of control, the flow of data, patterns of dependency, time sequence, name-space relationships. These graphs are usually not even planar, much less hierarchical.
 
 
 ***
 - Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
 
+    What Brooks means by a silver bullet is something to make software costs drop as rapidly as computer hardware costs do and a single development, in either technology or in management technique, that by itself promises improvement in productivity, in reliability, in simplicity.
+    
+    
+    
+    
+    
+    
 ***
 - In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
+    
+
 ***
 - In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+
+    
 
 
