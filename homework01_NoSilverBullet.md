@@ -6,6 +6,8 @@
 
 - Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
+    Ans:
+    
     Brooks defines the essential difficulties as the difficulties inherent in the nature of software. 
     
     He thinks the essence of a software entity is a construct of interlocking concepts: data sets, relationships among data items, algorithms, and invocations of functions. This essence is abstract in that such a conceptual construct is the same under many different representations. It is nonetheless highly precise and richly detailed. Brooks believes the hard part of building software to be the specification, design, and testing of this conceptual construct, not the labor of representing it and testing the fidelity of the representation. The syntax errors are fuzz compared with the conceptual errors in most systems. If this is true, building software will always be hard and inherently no silver bullet to solve. 
@@ -16,6 +18,8 @@
 
 - Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty. 
 
+    Ans:
+    
     Brooks defined the accidental difficulties as those difficulties that today attend its production but are not inherent.  Brooks argues that if we examine the three steps in software technology development that have been most fruitful in the past, we discover that each attacked a different major difficulty in building software, but that those difficulties have been accidental, not essential, difficulties.
     
     For example, the slow turnaround is an accidental rather than an essential difficulty of the software process. The slow turnaround of batch programming means that one inevitably forgets the minutiae, if not the very thrust, of what one was thinking when he stopped programming and called for compilation and execution. This interruption is costly in time, for one must refresh one's memory. The most serious effect may well be the decay of the grasp of all that is going on in a complex system. 
@@ -23,6 +27,8 @@
 ***
 - List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
 
+    Ans:
+    
     The four essential difficulties of developing software systems are:
     
     Complexity:
@@ -53,6 +59,8 @@
 
 ***
 - Define what Brooks means by a silver bullet and reconstruct his argument as to why he believes there is no silver bullet for software engineering.
+    
+    Ans:
 
     What Brooks means by a silver bullet is something to make software costs drop as rapidly as computer hardware costs do and a single development, in either technology or in management technique, that by itself promises improvement in productivity, in reliability, in simplicity.
     
@@ -79,6 +87,7 @@
 ***
 - In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
+    Ans:
     
     chemist is discovering and identifying the principle of chemistry as a science and chemical engineering is to apply the principle and figure out how to deploye to scientific principle with proper technology to fit the reality and benifit more people. 
     
@@ -87,6 +96,8 @@
 
 ***
 - In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+    
+    Ans:
 
     abstraction is the key to the analysis of software-based systems. The file system, an API, a database, are all abstraction. It is important because software engineers solve problems by developing abstractions that break the problem down into something that is understandable and/or by using abstractions developed by others.
     
