@@ -70,7 +70,10 @@
 ***
 - In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
-    Computer science the study of the principle of computing as a science 
+    
+    chemist is discovering and identifying the principle of chemistry as a science and chemical engineering is to apply the principle and figure out how to deploye to scientific principle with proper technology to fit the reality and benifit more people. 
+    
+    Similarly, Computer science is the study of the principle of computing as a science and what's possible in computer science and what isn't. And software engineers have to take that set of scientific priciple and techniques, taking it into production and continuingly diliver to customers.
 
 ***
 - In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
