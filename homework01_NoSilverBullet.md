@@ -56,18 +56,36 @@
 
     What Brooks means by a silver bullet is something to make software costs drop as rapidly as computer hardware costs do and a single development, in either technology or in management technique, that by itself promises improvement in productivity, in reliability, in simplicity.
     
-    
-    
-    
-    
-    
+   Brooks thinks that the nature and essential difficulties of software makes it unlikely to be any inventions that can improve  software productivity, reliability, and simplicity. He has discussed from several aspect that are most often considerd as silver bullet and argue that these technical development will not turn into silver bullet as people expect. For example, Ada and other high-level language advances
+   Object-oriented programming
+   Artificial intelligence
+   Expert systems
+   Automatic programming
+   Graphical programming
+   Program verification
+   Environments and tools
+   
+   Workstations: Brooks thinks the composition and editing of programs and documents is fully supported by today's speeds. Compiling could stand a boost, but a factor of 10 in machine speed would surely leave thinktime the dominant activity in the programmer's day.
+          
 ***
 - In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
 
-    
+    Computer science the study of the principle of computing as a science 
 
 ***
 - In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
+
+    abstraction
+    
+    conversation
+    
+    specification
+    
+    translation
+    
+    iteration
+    
+    
 
     
 
