@@ -58,16 +58,23 @@
     
    Brooks thinks that the nature and essential difficulties of software makes it unlikely to be any inventions that can improve  software productivity, reliability, and simplicity. He has discussed from several aspects that are most often considerd as silver bullet and argue that these technical development will not turn into silver bullet as people expect. 
    
-   For example, Ada and other high-level language advances
-   Object-oriented programming
-   Artificial intelligence
-   Expert systems
-   Automatic programming
-   Graphical programming
-   Program verification
-   Environments and tools
+   For example, he predicts that Ada and other high-level language advances's greatest contribution will be that switching to it occasioned training programmers in modern software-design techniques because it is after all, just another high-level language, and the biggest payoff from such languages came from the first transition.
    
-   Workstations: Brooks thinks the composition and editing of programs and documents is fully supported by today's speeds. Compiling could stand a boost, but a factor of 10 in machine speed would surely leave thinktime the dominant activity in the programmer's day.
+   He doesn't think Object-oriented programming advances would do more than to remove all the accidental difficulties from the expression of the design. The complexity of the design itself is essential, and such attacks make no change whatever in that.
+   
+   And while many people expect Artificial intelligence to provide the revolutionary breakthrough that will give order-of-magnitude gains in software productivity and quality, he thinks he hard time seeing how image recognition, for example, will make any appreciable difference in programming practiceThe same problem is true of speech recognition and the hard thing about building software is deciding what one wants to say, not saying it. No facilitation of expression can give more than marginal gains.
+   
+   He also argues that Expert systems is the most advanced part of AI, so there are many difficulties stand in the way of the early realization of useful expert-system advisors to the program developer. A crucial part of our imaginary scenario is the development of easy ways to get from program-structure specification to the automatic or semiautomatic generation of diagnostic rules.
+   
+   For Automatic programming, he explains it is hard to see how such techniques generalize to the wider world of the ordinary software system, where cases with such neat properties are the exception. It is hard even to imagine how this breakthrough in generalization could occur.
+   
+   For Graphical programming, he argues that first, flowchart is a very poor abstraction of software structure. Second,the screens of today are too small, in pixels, to show both the scope and the resolution of any seriously detailed software diagram. More importantly, he thinks that software is very difficult to visualize.
+   
+   He also doesn't think Program verification would be a silver bullet because the technology does not promise, however, to save labor. Verifications are so much work that only a few substantial programs have ever been verified.
+   
+   For Environments and tools, he thinks this work is worthwhile, and surely it will bear some fruit in both productivity and reliability. But by its very nature, the return from now on must be marginal.
+   
+   For Workstations, Brooks thinks the composition and editing of programs and documents is fully supported by today's speeds. Compiling could stand a boost, but a factor of 10 in machine speed would surely leave thinktime the dominant activity in the programmer's day.
           
 ***
 - In lecture, software engineering's relationship to computer science was described by analogy by discussing the differences between a chemist (chemistry) and a chemical engineer (chemical engineering). Define software engineering and its relationship to computer science; make use of the chemist vs. chemical engineer analogy when answering this question.
@@ -75,7 +82,7 @@
     
     chemist is discovering and identifying the principle of chemistry as a science and chemical engineering is to apply the principle and figure out how to deploye to scientific principle with proper technology to fit the reality and benifit more people. 
     
-    Similarly, Computer science is the study of the principle of computing as a science and what's possible in computer science and what isn't. And software engineers have to take that set of scientific priciple and techniques, taking it into production and continuingly diliver to customers.
+    Similarly, Computer science is the study of the principle of computing as a science and what's possible in computer science and what isn't in various areas such as theory of computing, programming languages, systems etc. And software engineers have to take that set of scientific priciple and techniques, taking it into production and continuingly diliver to customers.
 
 
 ***
