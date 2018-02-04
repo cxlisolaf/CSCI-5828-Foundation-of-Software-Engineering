@@ -12,6 +12,8 @@
     
     For example,  complexity property of software comes with the difficulty of communication among team members, which leads to product flaws, cost overruns, schedule delays.
 
+***
+
 - Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
 
     Brooks defined the accidental difficulties as those difficulties that today attend its production but are not inherent. 
