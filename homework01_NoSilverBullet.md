@@ -56,7 +56,9 @@
 
     What Brooks means by a silver bullet is something to make software costs drop as rapidly as computer hardware costs do and a single development, in either technology or in management technique, that by itself promises improvement in productivity, in reliability, in simplicity.
     
-   Brooks thinks that the nature and essential difficulties of software makes it unlikely to be any inventions that can improve  software productivity, reliability, and simplicity. He has discussed from several aspect that are most often considerd as silver bullet and argue that these technical development will not turn into silver bullet as people expect. For example, Ada and other high-level language advances
+   Brooks thinks that the nature and essential difficulties of software makes it unlikely to be any inventions that can improve  software productivity, reliability, and simplicity. He has discussed from several aspects that are most often considerd as silver bullet and argue that these technical development will not turn into silver bullet as people expect. 
+   
+   For example, Ada and other high-level language advances
    Object-oriented programming
    Artificial intelligence
    Expert systems
@@ -75,21 +77,25 @@
     
     Similarly, Computer science is the study of the principle of computing as a science and what's possible in computer science and what isn't. And software engineers have to take that set of scientific priciple and techniques, taking it into production and continuingly diliver to customers.
 
+
 ***
 - In lecture, we discussed the importance of the following concepts to software engineers: abstractions, conversations, specification, translation, and iteration. Define each of these concepts as they are related to software engineering and discuss their importance.
 
-    abstraction
+    abstraction is the key to the analysis of software-based systems. The file system, an API, a database, are all abstraction. It is important because software engineers solve problems by developing abstractions that break the problem down into something that is understandable and/or by using abstractions developed by others.
     
-    conversation
+    conversation is the communication between the user and domain expert, between the developers and/or the document, etc. It is important because it is the key to emphasize the point and the way to understand what abstraction we should write and if our abstraction is working or not.
     
-    specification
+    specification includes requirements, design, code, test plans, and development life cycles of software engineering. It is important because 
     
-    translation
+    translation: the work of software engineering that is one of translation, from one specification to another; from one level of abstraction to another; from one set of structures to another (e.g. problem/design decomposition).
     
-    iteration
+    iteration: the work of software engineering that is done iteratively; step by step until we are “done”. Iteration is important because we should learn from the mistakes or lessones from previuos steps and evovle the process and be better step by step. 
     
     
+References:
 
+1. No Silver Bullet: Essence and Accidents of Software Engineering,Frederick P. Brooks, Jr.
+2. Slides of Foundation of Software Engineering Lecture 1 
     
 
 
