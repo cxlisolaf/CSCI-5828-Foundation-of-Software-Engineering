@@ -6,7 +6,10 @@
 
 - Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
 
-    Brooks defines the essential difficulties as the difficulties inherent in the nature of software. He thinks the essence of a software entity is a construct of interlocking concepts: data sets, relationships among data items, algorithms, and invocations of functions. This essence is abstract in that such a conceptual construct is the same under many different representations. It is nonetheless highly precise and richly detailed. Brooks believes the hard part of building software to be the specification, design, and testing of this conceptual construct, not the labor of representing it and testing the fidelity of the representation. The syntax errors are fuzz compared with the conceptual errors in most systems. If this is true, building software will always be hard and inherently no silver bullet to solve. 
+    Brooks defines the essential difficulties as the difficulties inherent in the nature of software. 
+    
+    He thinks the essence of a software entity is a construct of interlocking concepts: data sets, relationships among data items, algorithms, and invocations of functions. This essence is abstract in that such a conceptual construct is the same under many different representations. It is nonetheless highly precise and richly detailed. Brooks believes the hard part of building software to be the specification, design, and testing of this conceptual construct, not the labor of representing it and testing the fidelity of the representation. The syntax errors are fuzz compared with the conceptual errors in most systems. If this is true, building software will always be hard and inherently no silver bullet to solve. 
+    
     For example,  complexity property of software comes with the difficulty of communication among team members, which leads to product flaws, cost overruns, schedule delays.
 
 - Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
